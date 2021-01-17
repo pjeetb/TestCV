@@ -1,0 +1,25 @@
+body{
+    background-color: #9088d4;
+}
+
+h1{
+    color: #fff3e2;
+    font-family: cursive;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #fff3e2;
+}
+
+h3{
+    color: #fff3e2;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: #fff3e2;
+}
+
+hr{
+    border-style:dotted none none;
+    width: 5%;
+    border-color: white;
+    border-width: 5px;      
+}
